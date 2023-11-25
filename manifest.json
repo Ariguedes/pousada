@@ -1,8 +1,9 @@
 {
- "background_color": "#FFFFFF",
- "name": "Pousada Aconchego",
- "display": "fullscreen",
  "start_url": "index.htm",
+ "name": "Pousada Aconchego",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "src": "misc/icon180.png",
    "sizes": "180x180"
   }
- ],
- "theme_color": "#FFFFFF"
+ ]
 }
