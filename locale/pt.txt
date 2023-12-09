@@ -65,30 +65,30 @@ panorama_CE56B93C_EF93_0263_41C2_48F1656C86C0.label = suite_quadra_ban
 album_B212B2D1_BD6D_7893_41D0_AC2F948DA428.label = Álbum de Fotos logo_aconchego
 
 ### Video
-videolevel_3921A06A_101B_745C_4169_8FF2B0F9EF89.posterURL = media/video_B21E935A_BD65_B991_41B9_24BE6BB795EF_poster_pt.jpg
-videolevel_3921A06A_101B_745C_4169_8FF2B0F9EF89.url = media/video_B21E935A_BD65_B991_41B9_24BE6BB795EF_pt.mp4
-videolevel_3926516E_101B_7454_41AC_894A1E081D97.posterURL = media/video_C3F0362A_C82D_B663_41C7_D3EAA1E16CD4_poster_pt.jpg
-videolevel_3926516E_101B_7454_41AC_894A1E081D97.url = media/video_C3F0362A_C82D_B663_41C7_D3EAA1E16CD4_pt.mp4
-videolevel_3924F116_101B_75F4_41AA_DFF8D1905614.posterURL = media/video_CEF13ACC_C36A_A685_41DD_6E05075F5520_poster_pt.jpg
-videolevel_3924F116_101B_75F4_41AA_DFF8D1905614.url = media/video_CEF13ACC_C36A_A685_41DD_6E05075F5520_pt.mp4
-videolevel_3ADC0219_101B_77FC_4173_494558FE202C.posterURL = media/video_D8B8A233_D769_723A_41E7_E76C6D7E963E_poster_pt.jpg
-videolevel_3ADC0219_101B_77FC_4173_494558FE202C.url = media/video_D8B8A233_D769_723A_41E7_E76C6D7E963E_pt.mp4
-videolevel_392370BC_101B_7434_41B0_61BFDA2CF02D.posterURL = media/video_D93BC4B1_C7BC_0339_41C4_395B8B93C727_poster_pt.jpg
-videolevel_392370BC_101B_7434_41B0_61BFDA2CF02D.url = media/video_D93BC4B1_C7BC_0339_41C4_395B8B93C727_pt.mp4
+videolevel_6F3848B8_4F72_6276_41C4_CEA986BBFA84.posterURL = media/video_B21E935A_BD65_B991_41B9_24BE6BB795EF_poster_pt.jpg
+videolevel_6F3848B8_4F72_6276_41C4_CEA986BBFA84.url = media/video_B21E935A_BD65_B991_41B9_24BE6BB795EF_pt.mp4
+videolevel_6F3FA98E_4F72_622A_41C3_FD60EEB77068.posterURL = media/video_C3F0362A_C82D_B663_41C7_D3EAA1E16CD4_poster_pt.jpg
+videolevel_6F3FA98E_4F72_622A_41C3_FD60EEB77068.url = media/video_C3F0362A_C82D_B663_41C7_D3EAA1E16CD4_pt.mp4
+videolevel_6F3F194C_4F72_622E_41CF_8026C9383A61.posterURL = media/video_CEF13ACC_C36A_A685_41DD_6E05075F5520_poster_pt.jpg
+videolevel_6F3F194C_4F72_622E_41CF_8026C9383A61.url = media/video_CEF13ACC_C36A_A685_41DD_6E05075F5520_pt.mp4
+videolevel_6F3E8A03_4F72_661A_41C7_DB3E843E0CAC.posterURL = media/video_D8B8A233_D769_723A_41E7_E76C6D7E963E_poster_pt.jpg
+videolevel_6F3E8A03_4F72_661A_41C7_DB3E843E0CAC.url = media/video_D8B8A233_D769_723A_41E7_E76C6D7E963E_pt.mp4
+videolevel_6F38B90A_4F72_622A_4184_B6DC1C349121.posterURL = media/video_D93BC4B1_C7BC_0339_41C4_395B8B93C727_poster_pt.jpg
+videolevel_6F38B90A_4F72_622A_4184_B6DC1C349121.url = media/video_D93BC4B1_C7BC_0339_41C4_395B8B93C727_pt.mp4
 
 ### Video Subtitles
 
 ## Skin
 
 ### Button
-Button_A98EDF46_BD65_89F1_41D3_E7B6E47B5B40.label = CAFÉ DA MANHĀ >
 Button_A98EDF46_BD65_89F1_41D3_E7B6E47B5B40_mobile.label = CAFÉ DA MANHĀ >
+Button_A98EDF46_BD65_89F1_41D3_E7B6E47B5B40.label = CAFÉ DA MANHĀ >
 Button_E7319509_CE1C_FC08_41C5_9F728035D743_mobile.label = INÍCIO >
 Button_E7319509_CE1C_FC08_41C5_9F728035D743.label = INÍCIO >
-Button_E7319509_CE1C_FC08_41C5_9F728035D743_mobile.pressedLabel = Inserdt Text
 Button_A98EDF46_BD65_89F1_41D3_E7B6E47B5B40.pressedLabel = Inserdt Text
-Button_E7319509_CE1C_FC08_41C5_9F728035D743.pressedLabel = Inserdt Text
+Button_E7319509_CE1C_FC08_41C5_9F728035D743_mobile.pressedLabel = Inserdt Text
 Button_A98EDF46_BD65_89F1_41D3_E7B6E47B5B40_mobile.pressedLabel = Inserdt Text
+Button_E7319509_CE1C_FC08_41C5_9F728035D743.pressedLabel = Inserdt Text
 Button_A8714F4B_BD65_89F7_41C7_ACED4091DDEE.pressedLabel = Lorem Ipsum
 Button_A8714F4B_BD65_89F7_41C7_ACED4091DDEE_mobile.pressedLabel = Lorem Ipsum
 Button_A98E3F46_BD65_89F1_41C3_4556ED535D91_mobile.label = RECEPÇĀO >
@@ -119,8 +119,8 @@ Button_FD37323D_EE93_065D_41E0_3777A75375FB.label = Suíte 06
 Button_A8714F4B_BD65_89F7_41C7_ACED4091DDEE.label = Suíte 06
 Button_A8714F4B_BD65_89F7_41C7_ACED4091DDEE_mobile.label = Suíte 06
 Button_FD37323D_EE93_065D_41E0_3777A75375FB_mobile.label = Suíte 06
-Button_A8715F4B_BD65_89F7_41A2_EECDFF8F53F3_mobile.label = Suíte 07
 Button_A8715F4B_BD65_89F7_41A2_EECDFF8F53F3.label = Suíte 07
+Button_A8715F4B_BD65_89F7_41A2_EECDFF8F53F3_mobile.label = Suíte 07
 Button_A8713F4B_BD65_89F7_41E3_32E9CB734598.label = Suíte 08
 Button_A8713F4B_BD65_89F7_41E3_32E9CB734598_mobile.label = Suíte 08
 Button_A8710F4B_BD65_89F7_41D3_EBD3A1F41E96.label = Suíte 09
@@ -153,6 +153,11 @@ Image_FF20B55E_EE91_02DF_41E6_8263504BF75E_mobile.url = skin/Image_FF20B55E_EE91
 Image_FF20B55E_EE91_02DF_41E6_8263504BF75E.url = skin/Image_FF20B55E_EE91_02DF_41E6_8263504BF75E_pt.png
 Image_FF886A24_EE91_0663_41E6_BFFDA8A4C51C_mobile.url = skin/Image_FF886A24_EE91_0663_41E6_BFFDA8A4C51C_mobile_pt.png
 Image_FF886A24_EE91_0663_41E6_BFFDA8A4C51C.url = skin/Image_FF886A24_EE91_0663_41E6_BFFDA8A4C51C_pt.png
+
+### Label
+Label_51F9802F_4F6E_E26A_41C0_5FA70D5EB5D9.text = (81) 99736.5273
+Label_5043CFBA_4F6D_DE6A_41C5_C71D815247AF.text = Ari Guedes Alcoforado
+Label_511CAC30_4F6E_E276_41C7_D66C7968D4A2.text = EM MANUTENÇĀO
 
 ### Multiline Text
 HTMLText_A98E6F47_BD65_89FE_4195_3FBB1F2A850C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
